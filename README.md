@@ -1,1 +1,0 @@
-# wordpress_container_image
